@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/bitriddler/monorepo-test/issues"
+  },
+  "dependencies": {
+    "@root/a": "^0.0.3"
   }
 }
