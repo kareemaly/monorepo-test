@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://artifactory.prod.auto1.team/artifactory/api/npm/npm-local/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bitriddler/monorepo-test.git"
