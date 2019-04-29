@@ -1,6 +1,6 @@
 {
   "name": "@root/b",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Kareem Mohamed <kareem3d.a@gmail.com>",
   "homepage": "https://github.com/bitriddler/monorepo-test#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/bitriddler/monorepo-test/issues"
   },
   "dependencies": {
-    "@root/a": "^0.0.3"
+    "@root/a": "^0.0.4"
   }
 }
