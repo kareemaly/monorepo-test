@@ -3,5 +3,5 @@
 module.exports = a;
 
 function a() {
-    console.log("First edit")
+    console.log("Second edit")
 }
